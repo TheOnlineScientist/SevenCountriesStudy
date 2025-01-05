@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Depression &amp; Optimism &#8211; Seven Countries Study</title>
-	<atom:link href="/category/disease-outcomes/depression/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href=".//category/disease-outcomes/depression/feed/" rel="self" type="application/rss+xml" />
+	<link>.//</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Optimism and cardiovascular disease</title>
-		<link>/optimism-and-cardiovascular-disease/</link>
+		<link>.//optimism-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 26 Feb 2013 09:50:45 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[CVD risk factors]]></category>
 		<category><![CDATA[Depression & Optimism]]></category>
 		<category><![CDATA[Healthy aging]]></category>
-		<guid isPermaLink="false">/?p=4489</guid>
+		<guid isPermaLink="false">.//?p=4489</guid>
 
 					<description><![CDATA[High optimism low CVD mortality Optimism was a relatively stable trait over 15 years in the Zutphen Elderly Study. Elderly men with a high level of optimism had only half the risk of 15-year CVD mortality compared to those with a low level of optimism. Similar results were obtained after adjustment for CVD risk  [...]]]></description>
 		
@@ -38,7 +38,7 @@
 			</item>
 		<item>
 		<title>Depressive symptoms and cardiovascular disease</title>
-		<link>/depressive-symptoms-and-cardiovascular-disease/</link>
+		<link>.//depressive-symptoms-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 26 Feb 2013 10:40:05 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<category><![CDATA[Depression & Optimism]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=4484</guid>
+		<guid isPermaLink="false">.//?p=4484</guid>
 
 					<description><![CDATA[Depressive symptoms related to CVD mortality Elderly men from the FINE study cohorts of Finland, the Netherlands and Italy who manifested a number of depressive symptoms had a 2-fold greater 10-year CVD mortality. The relative risk did not change after excluding cases that died from CVD in the first 5 years of follow-up. The  [...]]]></description>
 		
@@ -55,14 +55,14 @@
 			</item>
 		<item>
 		<title>Lung function, cognitive function, depressive symptoms and suicide</title>
-		<link>/lung-function-cognitive-function-depressive-symptoms-and-suicide/</link>
+		<link>.//lung-function-cognitive-function-depressive-symptoms-and-suicide/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2012 08:28:12 +0000</pubDate>
 				<category><![CDATA[Depression & Optimism]]></category>
 		<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Mental health]]></category>
-		<guid isPermaLink="false">/?p=7815</guid>
+		<guid isPermaLink="false">.//?p=7815</guid>
 
 					<description><![CDATA[Poor lung function is a risk factor of cognitive impairment, depression and suicide In the European cohorts of the Seven Countries Study poor lung function in middle age was related to a higher risk of cognitive impairment, depressive symptoms and completed suicide in late life. An interaction was observed for APOE4 genotypes. Lung function  [...]]]></description>
 		
@@ -71,7 +71,7 @@
 			</item>
 		<item>
 		<title>Self-rated health, disability, depression and all-cause mortality</title>
-		<link>/self-rated-health-disability-depression-and-all-cause-mortality/</link>
+		<link>.//self-rated-health-disability-depression-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:18:07 +0000</pubDate>
@@ -82,7 +82,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Self-rated health]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3359</guid>
+		<guid isPermaLink="false">.//?p=3359</guid>
 
 					<description><![CDATA[In the FINE study levels of self-rated health, disability and depressive symptoms were assessed in elderly men.]]></description>
 		
@@ -91,7 +91,7 @@
 			</item>
 		<item>
 		<title>Disability and depressive symptoms</title>
-		<link>/disability-and-depressive-symptoms/</link>
+		<link>.//disability-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:05:29 +0000</pubDate>
@@ -99,7 +99,7 @@
 		<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3331</guid>
+		<guid isPermaLink="false">.//?p=3331</guid>
 
 					<description><![CDATA[In elderly men from Finland, Italy and the Nethelands in the FINE Study, self-reported information on disability and depressive symptoms was collected in 1990 and 1995.]]></description>
 		
@@ -108,7 +108,7 @@
 			</item>
 		<item>
 		<title>Lifestyle, diet and optimism</title>
-		<link>/lifestyle-diet-and-optimism/</link>
+		<link>.//lifestyle-diet-and-optimism/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 08:58:22 +0000</pubDate>
@@ -116,7 +116,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3321</guid>
+		<guid isPermaLink="false">.//?p=3321</guid>
 
 					<description><![CDATA[A healthy diet, especially eating more fruit, vegetables, and whole grain bread was related to a higher level of optimism.]]></description>
 		
@@ -125,7 +125,7 @@
 			</item>
 		<item>
 		<title>Optimism and depressive symptoms</title>
-		<link>/optimism-and-depressive-symptoms/</link>
+		<link>.//optimism-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:04:59 +0000</pubDate>
@@ -133,7 +133,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3247</guid>
+		<guid isPermaLink="false">.//?p=3247</guid>
 
 					<description><![CDATA[The results suggest that optimistic elderly men are at a lower risk to develop depressive symptoms.]]></description>
 		
@@ -142,7 +142,7 @@
 			</item>
 		<item>
 		<title>Nutrient intake and depressive symptoms</title>
-		<link>/nutrient-intake-and-depressive-symptoms/</link>
+		<link>.//nutrient-intake-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:01:44 +0000</pubDate>
@@ -150,7 +150,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Fatty acids]]></category>
 		<category><![CDATA[Nutrients]]></category>
-		<guid isPermaLink="false">/?p=3243</guid>
+		<guid isPermaLink="false">.//?p=3243</guid>
 
 					<description><![CDATA[The results suggest that in contrast to the intake of B-vitamins, a high intake of the fish fatty acids EPA-DHA was associated with a low risk of depressive symptoms.]]></description>
 		
@@ -159,7 +159,7 @@
 			</item>
 		<item>
 		<title>Depressive symptoms, physical inactivity and cardiovascular disease</title>
-		<link>/physical-inactivity-depressive-symptoms-and-cardiovascular-disease/</link>
+		<link>.//physical-inactivity-depressive-symptoms-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:00:40 +0000</pubDate>
@@ -169,7 +169,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Physical activity]]></category>
-		<guid isPermaLink="false">/?p=3239</guid>
+		<guid isPermaLink="false">.//?p=3239</guid>
 
 					<description><![CDATA[Physical inactivity may be the intermediate factor in the relation between depressive symptoms and cardiovascular disease.]]></description>
 		
@@ -178,7 +178,7 @@
 			</item>
 		<item>
 		<title>Lifestyle factors and depressive symptoms</title>
-		<link>/lifestyle-factors-and-depressive-symptoms/</link>
+		<link>.//lifestyle-factors-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:58:04 +0000</pubDate>
@@ -187,7 +187,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Physical activity]]></category>
-		<guid isPermaLink="false">/?p=3234</guid>
+		<guid isPermaLink="false">.//?p=3234</guid>
 
 					<description><![CDATA[In elderly men, mild physical activity and moderate alcohol intake may lower the risk of depressive symptoms.]]></description>
 		

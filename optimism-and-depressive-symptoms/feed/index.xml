@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Optimism and depressive symptoms	</title>
-	<atom:link href="/optimism-and-depressive-symptoms/feed/" rel="self" type="application/rss+xml" />
-	<link>/optimism-and-depressive-symptoms/</link>
+	<atom:link href=".//optimism-and-depressive-symptoms/feed/" rel="self" type="application/rss+xml" />
+	<link>.//optimism-and-depressive-symptoms/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Sun, 26 Jan 2020 16:42:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Foods &#8211; Seven Countries Study</title>
-	<atom:link href="/category/diet/foods/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href=".//category/diet/foods/feed/" rel="self" type="application/rss+xml" />
+	<link>.//</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Tue, 12 May 2020 12:58:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Diets of diabetic and non-diabetic elderly men in Finland, The Netherlands, and Italy</title>
-		<link>/diets-of-diabetic-and-non-diabetic-elderly-men-in-finland-the-netherlands-and-italy/</link>
+		<link>.//diets-of-diabetic-and-non-diabetic-elderly-men-in-finland-the-netherlands-and-italy/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:34:42 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Fatty acids]]></category>
 		<category><![CDATA[Foods]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=7742</guid>
+		<guid isPermaLink="false">.//?p=7742</guid>
 
 					<description><![CDATA[Around 1990, the diets of non-diabetic men differed markedly among the three countries. Dutch and Finnish elderly diabetic men consumed less added sugar than non-diabetic men. In these diabetic men meat, milk, and cheese consumption were highest in The Netherlands and vegetables, fruit and berries highest in Italy. The saturated fat intake of the  [...]]]></description>
 		
@@ -40,7 +40,7 @@
 			</item>
 		<item>
 		<title>Fish, omega-3 fatty acids and cognitive decline</title>
-		<link>/fish-consumption-fatty-acids-and-cognitive-decline/</link>
+		<link>.//fish-consumption-fatty-acids-and-cognitive-decline/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:51:59 +0000</pubDate>
@@ -50,7 +50,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3223</guid>
+		<guid isPermaLink="false">.//?p=3223</guid>
 
 					<description><![CDATA[An analysis of the 1990 fish consumption data and the data on cognitive function collected showed that fish consumers had significantly less cognitive decline than non-consumers.]]></description>
 		
@@ -59,7 +59,7 @@
 			</item>
 		<item>
 		<title>Coffee, alcohol, smoking and cognitive decline</title>
-		<link>/coffee-alcohol-smoking-and-cognitive-functioning/</link>
+		<link>.//coffee-alcohol-smoking-and-cognitive-functioning/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 10:43:09 +0000</pubDate>
@@ -71,7 +71,7 @@
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Smoking]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3211</guid>
+		<guid isPermaLink="false">.//?p=3211</guid>
 
 					<description><![CDATA[The results suggest that in elderly men without chronic diseases, smoking and drinking were not related to cognitive decline.]]></description>
 		
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>Chocolate and cardiovascular disease</title>
-		<link>/chocolate-and-coronary-heart-disease/</link>
+		<link>.//chocolate-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 12:01:23 +0000</pubDate>
@@ -89,7 +89,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Foods]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=2143</guid>
+		<guid isPermaLink="false">.//?p=2143</guid>
 
 					<description><![CDATA[Already in the 18th century chocolate was believed to strengthen the heart, but this benefit was not based on scientific evidence.]]></description>
 		
@@ -98,7 +98,7 @@
 			</item>
 		<item>
 		<title>Tea and cardiovascular disease</title>
-		<link>/tea-and-coronary-heart-disease/</link>
+		<link>.//tea-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 12:00:51 +0000</pubDate>
@@ -106,7 +106,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Foods]]></category>
-		<guid isPermaLink="false">/?p=2141</guid>
+		<guid isPermaLink="false">.//?p=2141</guid>
 
 					<description><![CDATA[The Seven Countries Study did two analyses that suggest that black tea consumption is inversely related to cardiovascular diseases.]]></description>
 		
@@ -115,7 +115,7 @@
 			</item>
 		<item>
 		<title>Wine and cardiovascular disease</title>
-		<link>/wine-and-coronary-heart-disease/</link>
+		<link>.//wine-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 10:00:18 +0000</pubDate>
@@ -125,7 +125,7 @@
 		<category><![CDATA[Foods]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=2139</guid>
+		<guid isPermaLink="false">.//?p=2139</guid>
 
 					<description><![CDATA[The results suggest that low intake of wine may indeed protect against cardiovascular diseases.]]></description>
 		
@@ -134,7 +134,7 @@
 			</item>
 		<item>
 		<title>Fish and cardiovascular disease</title>
-		<link>/fish-and-coronary-heart-disease/</link>
+		<link>.//fish-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 17 Aug 2012 09:10:43 +0000</pubDate>
@@ -142,7 +142,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Disease outcomes]]></category>
 		<category><![CDATA[Foods]]></category>
-		<guid isPermaLink="false">/?p=1781</guid>
+		<guid isPermaLink="false">.//?p=1781</guid>
 
 					<description><![CDATA[Eating fish once or twice a week was associated with a 50% lower 20-year fatal CHD risk compared to eating no fish.]]></description>
 		

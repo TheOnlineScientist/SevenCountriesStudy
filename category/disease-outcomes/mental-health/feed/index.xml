@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mental health &#8211; Seven Countries Study</title>
-	<atom:link href="/category/disease-outcomes/mental-health/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href=".//category/disease-outcomes/mental-health/feed/" rel="self" type="application/rss+xml" />
+	<link>.//</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Physical activity, APOE4 genotype and cognitive decline</title>
-		<link>/physical-activity-apoe4-genotype-and-cognitive-decline/</link>
+		<link>.//physical-activity-apoe4-genotype-and-cognitive-decline/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Thu, 13 Jun 2013 11:49:26 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Physical activity]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3217</guid>
+		<guid isPermaLink="false">.//?p=3217</guid>
 
 					<description><![CDATA[Physical activity reduces the risk of stroke and may subsequently diminish the risk of cognitive decline, but changing the level of activity is more influential than maintaining it.]]></description>
 		
@@ -39,14 +39,14 @@
 			</item>
 		<item>
 		<title>Lung function, cognitive function, depressive symptoms and suicide</title>
-		<link>/lung-function-cognitive-function-depressive-symptoms-and-suicide/</link>
+		<link>.//lung-function-cognitive-function-depressive-symptoms-and-suicide/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2012 08:28:12 +0000</pubDate>
 				<category><![CDATA[Depression & Optimism]]></category>
 		<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Mental health]]></category>
-		<guid isPermaLink="false">/?p=7815</guid>
+		<guid isPermaLink="false">.//?p=7815</guid>
 
 					<description><![CDATA[Poor lung function is a risk factor of cognitive impairment, depression and suicide In the European cohorts of the Seven Countries Study poor lung function in middle age was related to a higher risk of cognitive impairment, depressive symptoms and completed suicide in late life. An interaction was observed for APOE4 genotypes. Lung function  [...]]]></description>
 		
@@ -55,7 +55,7 @@
 			</item>
 		<item>
 		<title>Cognitive decline and all-cause mortality</title>
-		<link>/cognitive-decline-and-all-cause-mortality/</link>
+		<link>.//cognitive-decline-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:19:43 +0000</pubDate>
@@ -64,7 +64,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3363</guid>
+		<guid isPermaLink="false">.//?p=3363</guid>
 
 					<description><![CDATA[In the FINE Study cognitive functioning was assessed in 1990 and 1995 in elderly men from Italy and The Netherlands.]]></description>
 		
@@ -73,7 +73,7 @@
 			</item>
 		<item>
 		<title>Cardiovascular risk factors and disability</title>
-		<link>/cardiovascular-risk-factors-disability-and-mental-well-being/</link>
+		<link>.//cardiovascular-risk-factors-disability-and-mental-well-being/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:09:50 +0000</pubDate>
@@ -82,7 +82,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3339</guid>
+		<guid isPermaLink="false">.//?p=3339</guid>
 
 					<description><![CDATA[There is some evidence that classic cardiovascular risk factors measured in middle-age are related to disability and mental well-being in later life.]]></description>
 		
@@ -91,7 +91,7 @@
 			</item>
 		<item>
 		<title>Optimism and depressive symptoms</title>
-		<link>/optimism-and-depressive-symptoms/</link>
+		<link>.//optimism-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:04:59 +0000</pubDate>
@@ -99,7 +99,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3247</guid>
+		<guid isPermaLink="false">.//?p=3247</guid>
 
 					<description><![CDATA[The results suggest that optimistic elderly men are at a lower risk to develop depressive symptoms.]]></description>
 		
@@ -108,7 +108,7 @@
 			</item>
 		<item>
 		<title>Cardiovascular risk factors and depressive symptoms</title>
-		<link>/cardiovascular-risk-factors-and-depressive-symptoms/</link>
+		<link>.//cardiovascular-risk-factors-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:56:38 +0000</pubDate>
@@ -119,7 +119,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3231</guid>
+		<guid isPermaLink="false">.//?p=3231</guid>
 
 					<description><![CDATA[Data showed that poor lung function in midlife was associated with steeper increases of depressive symptoms in old age.]]></description>
 		
@@ -128,7 +128,7 @@
 			</item>
 		<item>
 		<title>Marital status, living situation and cognitive decline</title>
-		<link>/marital-status-living-situation-and-cognitive-decline/</link>
+		<link>.//marital-status-living-situation-and-cognitive-decline/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:54:01 +0000</pubDate>
@@ -136,7 +136,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3227</guid>
+		<guid isPermaLink="false">.//?p=3227</guid>
 
 					<description><![CDATA[Men who were married or who lived with others were at a lower risk of dementia compared with those living alone.]]></description>
 		
@@ -145,7 +145,7 @@
 			</item>
 		<item>
 		<title>Fish, omega-3 fatty acids and cognitive decline</title>
-		<link>/fish-consumption-fatty-acids-and-cognitive-decline/</link>
+		<link>.//fish-consumption-fatty-acids-and-cognitive-decline/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:51:59 +0000</pubDate>
@@ -155,7 +155,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3223</guid>
+		<guid isPermaLink="false">.//?p=3223</guid>
 
 					<description><![CDATA[An analysis of the 1990 fish consumption data and the data on cognitive function collected showed that fish consumers had significantly less cognitive decline than non-consumers.]]></description>
 		
@@ -164,7 +164,7 @@
 			</item>
 		<item>
 		<title>Coffee, alcohol, smoking and cognitive decline</title>
-		<link>/coffee-alcohol-smoking-and-cognitive-functioning/</link>
+		<link>.//coffee-alcohol-smoking-and-cognitive-functioning/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 10:43:09 +0000</pubDate>
@@ -176,7 +176,7 @@
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Smoking]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3211</guid>
+		<guid isPermaLink="false">.//?p=3211</guid>
 
 					<description><![CDATA[The results suggest that in elderly men without chronic diseases, smoking and drinking were not related to cognitive decline.]]></description>
 		
@@ -185,7 +185,7 @@
 			</item>
 		<item>
 		<title>Genotypical risk factors, stroke and cognitive decline</title>
-		<link>/genotypical-risk-factors-and-cognitive-decline/</link>
+		<link>.//genotypical-risk-factors-and-cognitive-decline/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:39:08 +0000</pubDate>
@@ -193,7 +193,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3206</guid>
+		<guid isPermaLink="false">.//?p=3206</guid>
 
 					<description><![CDATA[The Zutphen Elderly Study showed that the risk of cognitive decline over three years was 187% higher among the carriers of certain variety of gene called the APO e4 isoform.]]></description>
 		

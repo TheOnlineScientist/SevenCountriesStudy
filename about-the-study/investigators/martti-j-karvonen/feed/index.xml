@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Martti J. Karvonen	</title>
-	<atom:link href="/about-the-study/investigators/martti-j-karvonen/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href=".//about-the-study/investigators/martti-j-karvonen/feed/" rel="self" type="application/rss+xml" />
+	<link>.//</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 11 Dec 2019 18:26:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

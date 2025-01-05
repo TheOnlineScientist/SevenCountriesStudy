@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Healthy aging &#8211; Seven Countries Study</title>
-	<atom:link href="/category/healthy-aging/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href=".//category/healthy-aging/feed/" rel="self" type="application/rss+xml" />
+	<link>.//</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Physical activity, APOE4 genotype and cognitive decline</title>
-		<link>/physical-activity-apoe4-genotype-and-cognitive-decline/</link>
+		<link>.//physical-activity-apoe4-genotype-and-cognitive-decline/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Thu, 13 Jun 2013 11:49:26 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Physical activity]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3217</guid>
+		<guid isPermaLink="false">.//?p=3217</guid>
 
 					<description><![CDATA[Physical activity reduces the risk of stroke and may subsequently diminish the risk of cognitive decline, but changing the level of activity is more influential than maintaining it.]]></description>
 		
@@ -39,13 +39,13 @@
 			</item>
 		<item>
 		<title>Hand-grip strength and disability</title>
-		<link>/hand-grip-strength-and-disability/</link>
+		<link>.//hand-grip-strength-and-disability/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 19 Mar 2013 12:12:19 +0000</pubDate>
 				<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
-		<guid isPermaLink="false">/?p=5443</guid>
+		<guid isPermaLink="false">.//?p=5443</guid>
 
 					<description><![CDATA[Hand-grip strength related to lower disability Hand-grip strength at baseline was inversely related to 4-year disability in rural elderly men in Italy. Of the men with a hand-grip strength rated "good", 26% became disabled versus 48% who were graded "poor". This inverse relationship of grip strength to risk of disability remained after multivariable analysis.  [...]]]></description>
 		
@@ -54,7 +54,7 @@
 			</item>
 		<item>
 		<title>Four lifestyle factors combined and cardiovascular disease</title>
-		<link>/four-lifestyle-factors-combined-and-cardiovascular-disease/</link>
+		<link>.//four-lifestyle-factors-combined-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 26 Feb 2013 12:58:56 +0000</pubDate>
@@ -65,7 +65,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[HALE]]></category>
-		<guid isPermaLink="false">/?p=4525</guid>
+		<guid isPermaLink="false">.//?p=4525</guid>
 
 					<description><![CDATA[A healthful diet and lifestyle is related to low CVD risk A Mediterranean style diet, a high level of physical activity, not smoking and moderate alcohol consumption were all associated with low 10-year risk of CHD and CVD in the European HALE project. A very low risk of these diseases was observed in elderly  [...]]]></description>
 		
@@ -74,7 +74,7 @@
 			</item>
 		<item>
 		<title>Optimism and cardiovascular disease</title>
-		<link>/optimism-and-cardiovascular-disease/</link>
+		<link>.//optimism-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 26 Feb 2013 09:50:45 +0000</pubDate>
@@ -82,7 +82,7 @@
 		<category><![CDATA[CVD risk factors]]></category>
 		<category><![CDATA[Depression & Optimism]]></category>
 		<category><![CDATA[Healthy aging]]></category>
-		<guid isPermaLink="false">/?p=4489</guid>
+		<guid isPermaLink="false">.//?p=4489</guid>
 
 					<description><![CDATA[High optimism low CVD mortality Optimism was a relatively stable trait over 15 years in the Zutphen Elderly Study. Elderly men with a high level of optimism had only half the risk of 15-year CVD mortality compared to those with a low level of optimism. Similar results were obtained after adjustment for CVD risk  [...]]]></description>
 		
@@ -91,7 +91,7 @@
 			</item>
 		<item>
 		<title>Depressive symptoms and cardiovascular disease</title>
-		<link>/depressive-symptoms-and-cardiovascular-disease/</link>
+		<link>.//depressive-symptoms-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 26 Feb 2013 10:40:05 +0000</pubDate>
@@ -99,7 +99,7 @@
 		<category><![CDATA[Depression & Optimism]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=4484</guid>
+		<guid isPermaLink="false">.//?p=4484</guid>
 
 					<description><![CDATA[Depressive symptoms related to CVD mortality Elderly men from the FINE study cohorts of Finland, the Netherlands and Italy who manifested a number of depressive symptoms had a 2-fold greater 10-year CVD mortality. The relative risk did not change after excluding cases that died from CVD in the first 5 years of follow-up. The  [...]]]></description>
 		
@@ -108,14 +108,14 @@
 			</item>
 		<item>
 		<title>Loneliness and mortality in the Zutphen cohort of elderly men</title>
-		<link>/loneliness-and-mortality-in-the-zutphen-cohort-of-elderly-men/</link>
+		<link>.//loneliness-and-mortality-in-the-zutphen-cohort-of-elderly-men/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2012 15:41:06 +0000</pubDate>
 				<category><![CDATA[All-cause mortality]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=7885</guid>
+		<guid isPermaLink="false">.//?p=7885</guid>
 
 					<description><![CDATA[Loneliness is prevalent in the elderly and included emotional and social loneliness. Information about loneliness was collected four times between 1985 and 2000. At baseline, 39% of elderly men were “moderate lonely” and 3% “severely lonely”. Emotional but not social loneliness, increased over 15 years. All-cause mortality data were collected from 1985 to 2010.  [...]]]></description>
 		
@@ -124,7 +124,7 @@
 			</item>
 		<item>
 		<title>Glucose tolerance, diabetes at entry and all-cause mortality in elderly men</title>
-		<link>/glucose-tolerance-diabetes-and-all-cause-mortality-in-the-elderly/</link>
+		<link>.//glucose-tolerance-diabetes-and-all-cause-mortality-in-the-elderly/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:38:20 +0000</pubDate>
@@ -133,7 +133,7 @@
 		<category><![CDATA[Diabetes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=7748</guid>
+		<guid isPermaLink="false">.//?p=7748</guid>
 
 					<description><![CDATA[The relationship of glucose tolerance at entry with 5-year all-cause mortality was investigated in Finland in men aged 65-84. Impaired compared to normal glucose tolerance was not associated with all-cause mortality in the Finnish elderly cohort. However, the relative risk of all-cause mortality in 5 years was twice as high among men with diabetes  [...]]]></description>
 		
@@ -142,7 +142,7 @@
 			</item>
 		<item>
 		<title>Body fat, glucose tolerance and diabetes incidence in non-diabetic elderly men</title>
-		<link>/body-fat-glucose-tolerance-and-diabetes-incidence-in-non-diabetic-elderly-men/</link>
+		<link>.//body-fat-glucose-tolerance-and-diabetes-incidence-in-non-diabetic-elderly-men/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:33:42 +0000</pubDate>
@@ -150,7 +150,7 @@
 		<category><![CDATA[CVD risk factors]]></category>
 		<category><![CDATA[Diabetes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
-		<guid isPermaLink="false">/?p=7739</guid>
+		<guid isPermaLink="false">.//?p=7739</guid>
 
 					<description><![CDATA[In 1970, the Dutch cohort of middle-aged men received a fasting oral glucose tolerance test with a glucose load of 50 grams and blood taken after 30, 60 and 120 min. The cross-sectional analysis showed that the subscapular skinfold thickness was independently related to fasting, 60 and 120 min glucose levels and to the  [...]]]></description>
 		
@@ -159,7 +159,7 @@
 			</item>
 		<item>
 		<title>Chronic diseases and all-cause mortality</title>
-		<link>/chronic-diseases-and-all-cause-mortality/</link>
+		<link>.//chronic-diseases-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:27:46 +0000</pubDate>
@@ -168,7 +168,7 @@
 		<category><![CDATA[Disease outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3389</guid>
+		<guid isPermaLink="false">.//?p=3389</guid>
 
 					<description><![CDATA[The relations of different chronic diseases with all-cause mortality was studied from middle-age onwards in the Seven Countries Study and in old age in the FINE Study.]]></description>
 		
@@ -177,14 +177,14 @@
 			</item>
 		<item>
 		<title>Telomeres and all-cause mortality</title>
-		<link>/telomere-length-and-all-cause-mortality/</link>
+		<link>.//telomere-length-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:26:01 +0000</pubDate>
 				<category><![CDATA[All-cause mortality]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3383</guid>
+		<guid isPermaLink="false">.//?p=3383</guid>
 
 					<description><![CDATA[Longer telomeres at baseline did not predict all-cause mortality, even though telomere shortening is a marker of aging that might be related to oxidative stress.]]></description>
 		

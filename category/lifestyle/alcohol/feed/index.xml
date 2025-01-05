@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Alcohol &#8211; Seven Countries Study</title>
-	<atom:link href="/category/lifestyle/alcohol/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href=".//category/lifestyle/alcohol/feed/" rel="self" type="application/rss+xml" />
+	<link>.//</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Four lifestyle factors and all-cause mortality</title>
-		<link>/four-lifestyle-factors-and-all-cause-mortality/</link>
+		<link>.//four-lifestyle-factors-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Mon, 04 Mar 2013 12:44:17 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Physical activity]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">/?p=4736</guid>
+		<guid isPermaLink="false">.//?p=4736</guid>
 
 					<description><![CDATA[A healthful diet and lifestyle are related to a low all-cause mortality risk A Mediterranean style diet, a high level of physical activity, non-smoking and moderate alcohol consumption were all associated with a low 10-year risk of all-cause mortality in the European HALE project. A very low all-cause mortality risk was observed in elderly  [...]]]></description>
 		
@@ -41,7 +41,7 @@
 			</item>
 		<item>
 		<title>Lifestyle factors and depressive symptoms</title>
-		<link>/lifestyle-factors-and-depressive-symptoms/</link>
+		<link>.//lifestyle-factors-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:58:04 +0000</pubDate>
@@ -50,7 +50,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Physical activity]]></category>
-		<guid isPermaLink="false">/?p=3234</guid>
+		<guid isPermaLink="false">.//?p=3234</guid>
 
 					<description><![CDATA[In elderly men, mild physical activity and moderate alcohol intake may lower the risk of depressive symptoms.]]></description>
 		
@@ -59,7 +59,7 @@
 			</item>
 		<item>
 		<title>Coffee, alcohol, smoking and cognitive decline</title>
-		<link>/coffee-alcohol-smoking-and-cognitive-functioning/</link>
+		<link>.//coffee-alcohol-smoking-and-cognitive-functioning/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 10:43:09 +0000</pubDate>
@@ -71,7 +71,7 @@
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Smoking]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3211</guid>
+		<guid isPermaLink="false">.//?p=3211</guid>
 
 					<description><![CDATA[The results suggest that in elderly men without chronic diseases, smoking and drinking were not related to cognitive decline.]]></description>
 		
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>Alcohol, all-cause mortality and long-term survival</title>
-		<link>/alcohol-all-cause-mortality-and-long-term-survival/</link>
+		<link>.//alcohol-all-cause-mortality-and-long-term-survival/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 14:37:27 +0000</pubDate>
@@ -89,7 +89,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=2330</guid>
+		<guid isPermaLink="false">.//?p=2330</guid>
 
 					<description><![CDATA[Long-term all-cause mortality was 25% lower in men who drank less than 20 g alcohol per day compared to non-drinkers.]]></description>
 		
@@ -98,7 +98,7 @@
 			</item>
 		<item>
 		<title>Wine and cardiovascular disease</title>
-		<link>/wine-and-coronary-heart-disease/</link>
+		<link>.//wine-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 10:00:18 +0000</pubDate>
@@ -108,7 +108,7 @@
 		<category><![CDATA[Foods]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=2139</guid>
+		<guid isPermaLink="false">.//?p=2139</guid>
 
 					<description><![CDATA[The results suggest that low intake of wine may indeed protect against cardiovascular diseases.]]></description>
 		
@@ -117,7 +117,7 @@
 			</item>
 		<item>
 		<title>Alcohol and cardiovascular disease</title>
-		<link>/alcohol-and-coronary-heart-disease/</link>
+		<link>.//alcohol-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 17 Aug 2012 07:15:09 +0000</pubDate>
@@ -127,7 +127,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
-		<guid isPermaLink="false">/?p=1792</guid>
+		<guid isPermaLink="false">.//?p=1792</guid>
 
 					<description><![CDATA[Moderate alcohol intake was, compared to no alcohol, associated with a 30% lower mortality from cardiovascular mortality.]]></description>
 		
