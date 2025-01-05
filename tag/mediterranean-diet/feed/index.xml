@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mediterranean diet &#8211; Seven Countries Study</title>
+	<atom:link href="/tag/mediterranean-diet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
+	<lastBuildDate>Wed, 06 May 2020 10:56:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Average Mediterranean Adequacy Index (MAI) and 50-year coronary heart disease mortality rates in 16 cohorts</title>
+		<link>/average-mediterranean-adequacy-index-mai-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
+		
+		<dc:creator><![CDATA[SCS]]></dc:creator>
+		<pubDate>Tue, 27 Nov 2012 12:29:20 +0000</pubDate>
+				<category><![CDATA[Cohort]]></category>
+		<category><![CDATA[50-year]]></category>
+		<category><![CDATA[Mediterranean diet]]></category>
+		<guid isPermaLink="false">/?p=7735</guid>
+
+					<description><![CDATA[The average consumption of vegetable foods was inversely related (R= -0.59), and animal foods (R =0.68), hard fats and sweet products (sugar products and pastries) (R=0.84) were positively related to 50-year CHD mortality rates. The MAI food pattern score was strongly inversely associated with 50-year CHD mortality rates (R= -0.91). A high MAI score is  [...]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dietary patterns and all-cause mortality</title>
+		<link>/dietary-patterns-and-all-cause-mortality/</link>
+		
+		<dc:creator><![CDATA[SCS]]></dc:creator>
+		<pubDate>Sat, 20 Oct 2012 14:21:52 +0000</pubDate>
+				<category><![CDATA[All-cause mortality]]></category>
+		<category><![CDATA[Diet]]></category>
+		<category><![CDATA[Dietary patterns]]></category>
+		<category><![CDATA[HALE]]></category>
+		<category><![CDATA[Mediterranean diet]]></category>
+		<guid isPermaLink="false">/?p=2317</guid>
+
+					<description><![CDATA[Diets contain nutrients, and these are generally highly correlated with other factors due to the choice of foods in which they occur, but also on the consumption of a particular food at the expense of another one. These factors are taken into account when indicators of dietary patterns are evaluated.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mediterranean dietary patterns in the 1960s</title>
+		<link>/mediterranean-dietary-patterns/</link>
+		
+		<dc:creator><![CDATA[SCS]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2012 08:26:10 +0000</pubDate>
+				<category><![CDATA[Diet]]></category>
+		<category><![CDATA[Dietary patterns]]></category>
+		<category><![CDATA[Mediterranean diet]]></category>
+		<guid isPermaLink="false">http://www.mywebsiteforyou.com/scs/?p=322</guid>
+
+					<description><![CDATA[The traditional Mediterranean diet was a nutritionally adequate diet with a varying total fat content, low in saturated fat and very low in trans fat, rich in fiber and antioxidant vitamins or flavonoids.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

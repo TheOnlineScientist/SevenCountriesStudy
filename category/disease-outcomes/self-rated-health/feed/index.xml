@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Self-rated health &#8211; Seven Countries Study</title>
+	<atom:link href="/category/disease-outcomes/self-rated-health/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
+	<lastBuildDate>Sun, 26 Jan 2020 17:59:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Self-rated health, disability, depression and all-cause mortality</title>
+		<link>/self-rated-health-disability-depression-and-all-cause-mortality/</link>
+		
+		<dc:creator><![CDATA[SCS]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2012 09:18:07 +0000</pubDate>
+				<category><![CDATA[All-cause mortality]]></category>
+		<category><![CDATA[Depression & Optimism]]></category>
+		<category><![CDATA[Disease outcomes]]></category>
+		<category><![CDATA[Functional outcomes]]></category>
+		<category><![CDATA[Healthy aging]]></category>
+		<category><![CDATA[Self-rated health]]></category>
+		<category><![CDATA[FINE]]></category>
+		<guid isPermaLink="false">/?p=3359</guid>
+
+					<description><![CDATA[In the FINE study levels of self-rated health, disability and depressive symptoms were assessed in elderly men.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Self-rated health, physician-rated health and mortality</title>
+		<link>/self-rated-health-physician-rated-health-and-all-cause-mortality/</link>
+		
+		<dc:creator><![CDATA[SCS]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2012 09:16:17 +0000</pubDate>
+				<category><![CDATA[All-cause mortality]]></category>
+		<category><![CDATA[Healthy aging]]></category>
+		<category><![CDATA[Self-rated health]]></category>
+		<category><![CDATA[Zutphen Elderly Study]]></category>
+		<guid isPermaLink="false">/?p=3355</guid>
+
+					<description><![CDATA[Both self-rated and physician-rated health independently predicted all-cause mortality.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
