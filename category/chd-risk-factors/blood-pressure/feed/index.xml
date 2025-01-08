@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Blood pressure &#8211; Seven Countries Study</title>
-	<atom:link href=".//category/chd-risk-factors/blood-pressure/feed/" rel="self" type="application/rss+xml" />
-	<link>.//</link>
+	<atom:link href="/category/chd-risk-factors/blood-pressure/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Tue, 12 May 2020 12:57:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Global coronary risk in northern and southern Europe</title>
-		<link>.//global-coronary-risk-in-northern-and-southern-europe/</link>
+		<link>/global-coronary-risk-in-northern-and-southern-europe/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Mon, 04 Mar 2013 12:29:33 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[CVD risk factors]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">.//?p=4731</guid>
+		<guid isPermaLink="false">/?p=4731</guid>
 
 					<description><![CDATA[Large differences in global CHD risk within Europe A re-analysis of the 10-year follow-up data of the SCS published in 2000 showed large differences between northern and southern Europe in the number of hard CHD events at the same level of the major risk factors serum cholesterol, blood pressure and smoking. The number of hard CHD  [...]]]></description>
 		
@@ -40,7 +40,7 @@
 			</item>
 		<item>
 		<title>From individual risk factors to global cardiovascular risk</title>
-		<link>.//from-individual-risk-factors-to-global-coronary-risk/</link>
+		<link>/from-individual-risk-factors-to-global-coronary-risk/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Mon, 04 Mar 2013 12:28:46 +0000</pubDate>
@@ -51,7 +51,7 @@
 		<category><![CDATA[CVD risk factors]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">.//?p=4729</guid>
+		<guid isPermaLink="false">/?p=4729</guid>
 
 					<description><![CDATA[Individual risk factors and CHD prevention in the past In the 1960s and 70s, the Seven Countries Study and many other studies identified serum cholesterol, systolic blood pressure and smoking as major risk factors of CHD. Since then, smoking cessation and dietary interventions were promoted for primary prevention with drug treatment recommended for strongly elevated  [...]]]></description>
 		
@@ -60,7 +60,7 @@
 			</item>
 		<item>
 		<title>Major risk factors and cardiovascular disease</title>
-		<link>.//major-risk-factors-and-cardiovascular-disease/</link>
+		<link>/major-risk-factors-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Mon, 04 Mar 2013 12:27:11 +0000</pubDate>
@@ -71,7 +71,7 @@
 		<category><![CDATA[Disease outcomes]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">.//?p=4726</guid>
+		<guid isPermaLink="false">/?p=4726</guid>
 
 					<description><![CDATA[High blood pressure and smoking were risk factors for three major CVDs while serum cholesterol predicted only CHD Blood pressure and cigarette smoking predicted overall cardiovascular disease mortality and each major individual cardiovascular disease: that is, coronary heart disease, other heart disease and stroke. Serum cholesterol predicted cardiovascular and coronary heart disease mortality. The association  [...]]]></description>
 		
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>Blood pressure trajectories, cardiovascular and all-cause mortality, and life years lost</title>
-		<link>.//blood-pressure-trajectories-cardiovascular-and-all-cause-mortality-and-life-years-lost/</link>
+		<link>/blood-pressure-trajectories-cardiovascular-and-all-cause-mortality-and-life-years-lost/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:39:45 +0000</pubDate>
@@ -88,7 +88,7 @@
 		<category><![CDATA[Blood pressure]]></category>
 		<category><![CDATA[Cardiovascular disease]]></category>
 		<category><![CDATA[CVD risk factors]]></category>
-		<guid isPermaLink="false">.//?p=7750</guid>
+		<guid isPermaLink="false">/?p=7750</guid>
 
 					<description><![CDATA[Ten-year blood pressure trajectories were identified in the Minnesota Business and Professional Men Study and the Zutphen Study. Blood pressure trajectories were the strongest predictors of mortality in Minnesota and average blood pressure was the strongest predictor in Zutphen. The steepest systolic blood pressure trajectory was associated with 4 times greater cardiovascular mortality risk in  [...]]]></description>
 		
@@ -97,7 +97,7 @@
 			</item>
 		<item>
 		<title>Cardiovascular risk factors and all-cause mortality in the elderly</title>
-		<link>.//cardiovascular-risk-factors-and-all-cause-mortality-in-the-elderly/</link>
+		<link>/cardiovascular-risk-factors-and-all-cause-mortality-in-the-elderly/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:24:31 +0000</pubDate>
@@ -110,7 +110,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Smoking]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">.//?p=3379</guid>
+		<guid isPermaLink="false">/?p=3379</guid>
 
 					<description><![CDATA[In the FINE Study the relations of classic cardiovascular risk factors with subsequent all-cause mortality were investigated in men aged 65-84 at baseline.]]></description>
 		
@@ -119,7 +119,7 @@
 			</item>
 		<item>
 		<title>Cardiovascular risk factors and long-term all-cause mortality</title>
-		<link>.//cardiovascular-risk-factors-in-middle-age-and-long-term-all-cause-mortality/</link>
+		<link>/cardiovascular-risk-factors-in-middle-age-and-long-term-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:22:53 +0000</pubDate>
@@ -130,7 +130,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">.//?p=3375</guid>
+		<guid isPermaLink="false">/?p=3375</guid>
 
 					<description><![CDATA[In the FINE Study the relations of classic cardiovascular risk factors with subsequent all-cause mortality were investigated in men aged 65-84 at baseline.]]></description>
 		
@@ -139,7 +139,7 @@
 			</item>
 		<item>
 		<title>Cardiovascular risk factors and dementia</title>
-		<link>.//cardiovascular-risk-factors-and-dementia/</link>
+		<link>/cardiovascular-risk-factors-and-dementia/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:27:00 +0000</pubDate>
@@ -150,7 +150,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">.//?p=3193</guid>
+		<guid isPermaLink="false">/?p=3193</guid>
 
 					<description><![CDATA[Men with a history of CVD at baseline had a 94% higher risk of dementia compared to those with no history.]]></description>
 		
@@ -159,7 +159,7 @@
 			</item>
 		<item>
 		<title>Blood pressure and cardiovascular disease</title>
-		<link>.//blood-pressure-and-coronary-heart-disease/</link>
+		<link>/blood-pressure-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 17 Aug 2012 08:54:08 +0000</pubDate>
@@ -167,7 +167,7 @@
 		<category><![CDATA[Cardiovascular disease]]></category>
 		<category><![CDATA[CVD risk factors]]></category>
 		<category><![CDATA[Disease outcomes]]></category>
-		<guid isPermaLink="false">.//?p=1751</guid>
+		<guid isPermaLink="false">/?p=1751</guid>
 
 					<description><![CDATA[In 1960 the highest levels of average blood pressure were observed in Eastern Finland and Northern Italy and the lowest in rural Serbia and Japan.]]></description>
 		

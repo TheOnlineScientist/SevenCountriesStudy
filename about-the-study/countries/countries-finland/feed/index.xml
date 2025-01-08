@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Countries &#8211; Finland	</title>
-	<atom:link href=".//about-the-study/countries/countries-finland/feed/" rel="self" type="application/rss+xml" />
-	<link>.//</link>
+	<atom:link href="/about-the-study/countries/countries-finland/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Thu, 12 Dec 2019 13:11:23 +0000</lastBuildDate>
 	<sy:updatePeriod>

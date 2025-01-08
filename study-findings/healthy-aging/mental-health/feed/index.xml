@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Mental health	</title>
-	<atom:link href=".//study-findings/healthy-aging/mental-health/feed/" rel="self" type="application/rss+xml" />
-	<link>.//</link>
+	<atom:link href="/study-findings/healthy-aging/mental-health/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Mon, 29 Apr 2019 18:07:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
