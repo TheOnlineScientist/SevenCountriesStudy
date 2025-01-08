@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cohort &#8211; Seven Countries Study</title>
-	<atom:link href="/category/cohort/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/SevenCountriesStudy/category/cohort/feed/" rel="self" type="application/rss+xml" />
+	<link>/SevenCountriesStudy/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Tue, 17 Mar 2020 14:54:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Average saturated fat intake and 25-year coronary heart disease rates in the 16 cohorts</title>
-		<link>/average-saturated-fat-intake-and-coronary-heart-disease-rates-in-the-16-cohorts/</link>
+		<link>/SevenCountriesStudy/average-saturated-fat-intake-and-coronary-heart-disease-rates-in-the-16-cohorts/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Mon, 25 Feb 2013 09:09:07 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[25-year]]></category>
-		<guid isPermaLink="false">/?p=4375</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=4375</guid>
 
 					<description><![CDATA[The average population intake of saturated fat varied between 3% of energy in Japan and 22% of energy in Eastern Finland in the 1960s. There was also a 6-fold range in 25-year CHD mortality rates among the 16 cohorts. The average saturated fat intake at baseline was strongly correlated with 25-year CHD mortality rates.  [...]]]></description>
 		
@@ -36,13 +36,13 @@
 			</item>
 		<item>
 		<title>Average serum cholesterol level and 25-year CHD death rates in the 16 cohorts</title>
-		<link>/serum-cholesterol-and-coronary-heart-disease-mortality-in-the-seven-countries-study/</link>
+		<link>/SevenCountriesStudy/serum-cholesterol-and-coronary-heart-disease-mortality-in-the-seven-countries-study/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Wed, 06 Feb 2013 11:38:40 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[25-year]]></category>
-		<guid isPermaLink="false">/?p=3996</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3996</guid>
 
 					<description><![CDATA[In the 1960s average serum cholesterol levels varied from 160 mg/dl (4 mmol/l) in the Japanese cohorts to 270 mg/dl (7 mmol/l) in Eastern Finland. The baseline serum cholesterol levels of the 16 cohorts were positively correlated with the CHD mortality rates after 5, 10, and 25 years. The higher the average serum cholesterol level at baseline  [...]]]></description>
 		
@@ -51,13 +51,13 @@
 			</item>
 		<item>
 		<title>Major risk factors, long-term  trends, coronary heart disease mortality, and European countries</title>
-		<link>/major-risk-factors-long-term-trends-coronary-heart-disease-mortality-and-european-countries/</link>
+		<link>/SevenCountriesStudy/major-risk-factors-long-term-trends-coronary-heart-disease-mortality-and-european-countries/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2012 15:30:50 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[50-year]]></category>
-		<guid isPermaLink="false">/?p=7882</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7882</guid>
 
 					<description><![CDATA[Major risk factors were measured at entry and five times during 35 years. Smoking decreased over time and systolic blood pressure increased except for the East Finland cohort. A decrease of serum cholesterol occurred in Finland and in The Netherlands whereas serum cholesterol increased slightly in Italy, and large in Serbia and Greece. A comprehensive  [...]]]></description>
 		
@@ -66,14 +66,14 @@
 			</item>
 		<item>
 		<title>Average Mediterranean Adequacy Index (MAI) and 50-year coronary heart disease mortality rates in 16 cohorts</title>
-		<link>/average-mediterranean-adequacy-index-mai-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
+		<link>/SevenCountriesStudy/average-mediterranean-adequacy-index-mai-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:29:20 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[50-year]]></category>
 		<category><![CDATA[Mediterranean diet]]></category>
-		<guid isPermaLink="false">/?p=7735</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7735</guid>
 
 					<description><![CDATA[The average consumption of vegetable foods was inversely related (R= -0.59), and animal foods (R =0.68), hard fats and sweet products (sugar products and pastries) (R=0.84) were positively related to 50-year CHD mortality rates. The MAI food pattern score was strongly inversely associated with 50-year CHD mortality rates (R= -0.91). A high MAI score is  [...]]]></description>
 		
@@ -82,13 +82,13 @@
 			</item>
 		<item>
 		<title>Average starch intake and 50-year coronary heart disease mortality rates in 16 cohorts</title>
-		<link>/average-starch-intake-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
+		<link>/SevenCountriesStudy/average-starch-intake-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:28:02 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[50-year]]></category>
-		<guid isPermaLink="false">/?p=7733</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7733</guid>
 
 					<description><![CDATA[In the 1960s, foods were prepared at home and had more fiber than ultra-processed foods produced nowadays. The average intake of starch was correlated (R=0.74) with the average consumption of bread, cereals, legumes and potatoes. The average intake of starch varied from 10 % of energy in the US to more than 50 % of  [...]]]></description>
 		
@@ -97,13 +97,13 @@
 			</item>
 		<item>
 		<title>Average sucrose intake and 50-year coronary heart disease mortality rates in 16 cohorts</title>
-		<link>/average-sucrose-intake-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
+		<link>/SevenCountriesStudy/average-sucrose-intake-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:27:04 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[50-year]]></category>
-		<guid isPermaLink="false">/?p=7731</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7731</guid>
 
 					<description><![CDATA[Dietary sugars consist of mono-and disaccharides and can be divided into naturally occurring sugars present in fruit (glucose and fructose), milk (lactose and galactose), grains (bread and pasta) (maltose) and added sugar (sucrose). In the 1960s traditional Western diets were high in sucrose, while the traditional Mediterranean and Japanese diets were low. The average intake  [...]]]></description>
 		
@@ -112,13 +112,13 @@
 			</item>
 		<item>
 		<title>Average intake of fatty acids, food groups and 50-year all-cause mortality rates in 16 cohorts</title>
-		<link>/average-intake-of-fatty-acids-food-groups-and-50-year-all-cause-mortality-rates-in-16-cohorts/</link>
+		<link>/SevenCountriesStudy/average-intake-of-fatty-acids-food-groups-and-50-year-all-cause-mortality-rates-in-16-cohorts/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:25:49 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[50-year]]></category>
-		<guid isPermaLink="false">/?p=7729</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7729</guid>
 
 					<description><![CDATA[In the 1960s the average population intake of saturated (S), and trans fats (T) and hard fats (butter, lard, and hard margarine) was high in northern Europe while monounsaturated (M), polyunsaturated (P) fatty acids, and vegetable oils (mostly olive oil) were high in Mediterranean areas and total fat was low in Japan. The all-cause mortality  [...]]]></description>
 		
@@ -127,13 +127,13 @@
 			</item>
 		<item>
 		<title>Average saturated fat intake and 50-year coronary heart disease mortality rates in 16 cohorts</title>
-		<link>/average-saturated-fat-intake-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
+		<link>/SevenCountriesStudy/average-saturated-fat-intake-and-50-year-coronary-heart-disease-mortality-rates-in-16-cohorts/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:24:17 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[50-year]]></category>
-		<guid isPermaLink="false">/?p=7727</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7727</guid>
 
 					<description><![CDATA[In the 1960s there was a 6-fold difference in average population intake of saturated fatty acids: from Japan (3% of energy) to East Finland (22% of energy). The 50-year data confirm and extend the 25-year data. Average cohort intake of saturated fatty acids was strongly positively associated with 50-year CHD mortality rates (R = 0.92).  [...]]]></description>
 		
@@ -142,13 +142,13 @@
 			</item>
 		<item>
 		<title>Average flavonoid intake and 25-year coronary heart disease rates in the 16 cohorts</title>
-		<link>/smoking-and-chd-in-the-seven-countries-study/</link>
+		<link>/SevenCountriesStudy/smoking-and-chd-in-the-seven-countries-study/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 09:50:35 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[25-year]]></category>
-		<guid isPermaLink="false">/?p=2204</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=2204</guid>
 
 					<description><![CDATA[CHD can be caused by many things, but smoking is one of the most important ones.]]></description>
 		
@@ -157,13 +157,13 @@
 			</item>
 		<item>
 		<title>Nutrients, smoking and 25-year coronary heart disease rates in the 16 cohorts</title>
-		<link>/diet-and-coronary-heart-disease/</link>
+		<link>/SevenCountriesStudy/diet-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 09:49:36 +0000</pubDate>
 				<category><![CDATA[Cohort]]></category>
 		<category><![CDATA[25-year]]></category>
-		<guid isPermaLink="false">/?p=2199</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=2199</guid>
 
 					<description><![CDATA[Three factors – diet, smoking and flavonoid intake - combined explained 90% of the CHD mortality rates among the 16 cohorts in the SCS]]></description>
 		

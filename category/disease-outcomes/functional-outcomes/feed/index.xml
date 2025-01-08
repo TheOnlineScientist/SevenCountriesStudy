@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Functional outcomes &#8211; Seven Countries Study</title>
-	<atom:link href="/category/disease-outcomes/functional-outcomes/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/SevenCountriesStudy/category/disease-outcomes/functional-outcomes/feed/" rel="self" type="application/rss+xml" />
+	<link>/SevenCountriesStudy/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Hand-grip strength and disability</title>
-		<link>/hand-grip-strength-and-disability/</link>
+		<link>/SevenCountriesStudy/hand-grip-strength-and-disability/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 19 Mar 2013 12:12:19 +0000</pubDate>
 				<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
-		<guid isPermaLink="false">/?p=5443</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=5443</guid>
 
 					<description><![CDATA[Hand-grip strength related to lower disability Hand-grip strength at baseline was inversely related to 4-year disability in rural elderly men in Italy. Of the men with a hand-grip strength rated "good", 26% became disabled versus 48% who were graded "poor". This inverse relationship of grip strength to risk of disability remained after multivariable analysis.  [...]]]></description>
 		
@@ -36,14 +36,14 @@
 			</item>
 		<item>
 		<title>Lung function, cognitive function, depressive symptoms and suicide</title>
-		<link>/lung-function-cognitive-function-depressive-symptoms-and-suicide/</link>
+		<link>/SevenCountriesStudy/lung-function-cognitive-function-depressive-symptoms-and-suicide/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2012 08:28:12 +0000</pubDate>
 				<category><![CDATA[Depression & Optimism]]></category>
 		<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Mental health]]></category>
-		<guid isPermaLink="false">/?p=7815</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7815</guid>
 
 					<description><![CDATA[Poor lung function is a risk factor of cognitive impairment, depression and suicide In the European cohorts of the Seven Countries Study poor lung function in middle age was related to a higher risk of cognitive impairment, depressive symptoms and completed suicide in late life. An interaction was observed for APOE4 genotypes. Lung function  [...]]]></description>
 		
@@ -52,7 +52,7 @@
 			</item>
 		<item>
 		<title>Self-rated health, disability, depression and all-cause mortality</title>
-		<link>/self-rated-health-disability-depression-and-all-cause-mortality/</link>
+		<link>/SevenCountriesStudy/self-rated-health-disability-depression-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:18:07 +0000</pubDate>
@@ -63,7 +63,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Self-rated health]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3359</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3359</guid>
 
 					<description><![CDATA[In the FINE study levels of self-rated health, disability and depressive symptoms were assessed in elderly men.]]></description>
 		
@@ -72,14 +72,14 @@
 			</item>
 		<item>
 		<title>Widowhood and disability</title>
-		<link>/widowhood-and-disability/</link>
+		<link>/SevenCountriesStudy/widowhood-and-disability/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:14:14 +0000</pubDate>
 				<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3351</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3351</guid>
 
 					<description><![CDATA[The associations of different aspects of widowhood with disability were investigated in elderly men from Finland, Italy and The Netherlands in the FINE Study.]]></description>
 		
@@ -88,7 +88,7 @@
 			</item>
 		<item>
 		<title>Physical activity and disability</title>
-		<link>/physical-activity-and-disability/</link>
+		<link>/SevenCountriesStudy/physical-activity-and-disability/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:12:15 +0000</pubDate>
@@ -97,7 +97,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Physical activity]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3345</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3345</guid>
 
 					<description><![CDATA[The results suggest that even in old age among relatively healthy men, a physically active lifestyle was inversely related to disability.]]></description>
 		
@@ -106,7 +106,7 @@
 			</item>
 		<item>
 		<title>Cardiovascular risk factors and disability</title>
-		<link>/cardiovascular-risk-factors-disability-and-mental-well-being/</link>
+		<link>/SevenCountriesStudy/cardiovascular-risk-factors-disability-and-mental-well-being/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:09:50 +0000</pubDate>
@@ -115,7 +115,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3339</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3339</guid>
 
 					<description><![CDATA[There is some evidence that classic cardiovascular risk factors measured in middle-age are related to disability and mental well-being in later life.]]></description>
 		
@@ -124,7 +124,7 @@
 			</item>
 		<item>
 		<title>Measuring functional status</title>
-		<link>/measuring-and-functional-status/</link>
+		<link>/SevenCountriesStudy/measuring-and-functional-status/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 08:07:32 +0000</pubDate>
@@ -132,7 +132,7 @@
 		<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=3333</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3333</guid>
 
 					<description><![CDATA[Functional status was measured with a self-administered 13-item WHO-questionnaire on activities of daily living.]]></description>
 		
@@ -141,7 +141,7 @@
 			</item>
 		<item>
 		<title>Disability and depressive symptoms</title>
-		<link>/disability-and-depressive-symptoms/</link>
+		<link>/SevenCountriesStudy/disability-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 16 Nov 2012 09:05:29 +0000</pubDate>
@@ -149,7 +149,7 @@
 		<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3331</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3331</guid>
 
 					<description><![CDATA[In elderly men from Finland, Italy and the Nethelands in the FINE Study, self-reported information on disability and depressive symptoms was collected in 1990 and 1995.]]></description>
 		
@@ -158,13 +158,13 @@
 			</item>
 		<item>
 		<title>Changes in physical functioning in northern and southern Europe</title>
-		<link>/changes-in-physical-functioning-in-elderly-from-northern-and-southern-europe/</link>
+		<link>/SevenCountriesStudy/changes-in-physical-functioning-in-elderly-from-northern-and-southern-europe/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:15:22 +0000</pubDate>
 				<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
-		<guid isPermaLink="false">/?p=3259</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3259</guid>
 
 					<description><![CDATA[Disability and need for help increased with advancing age but at the same time decreased over time as the birth years of participants became more recent.]]></description>
 		
@@ -173,7 +173,7 @@
 			</item>
 		<item>
 		<title>Functional status and disability</title>
-		<link>/functional-status-and-disability/</link>
+		<link>/SevenCountriesStudy/functional-status-and-disability/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:11:56 +0000</pubDate>
@@ -181,7 +181,7 @@
 		<category><![CDATA[Functional outcomes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=3253</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3253</guid>
 
 					<description><![CDATA[The number of self-reported disabilities was positively related to the performance-based limitations score and did not differ between countries.]]></description>
 		

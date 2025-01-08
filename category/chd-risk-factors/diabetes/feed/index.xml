@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Diabetes &#8211; Seven Countries Study</title>
-	<atom:link href="/category/chd-risk-factors/diabetes/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/SevenCountriesStudy/category/chd-risk-factors/diabetes/feed/" rel="self" type="application/rss+xml" />
+	<link>/SevenCountriesStudy/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Glucose tolerance, diabetes at entry and all-cause mortality in elderly men</title>
-		<link>/glucose-tolerance-diabetes-and-all-cause-mortality-in-the-elderly/</link>
+		<link>/SevenCountriesStudy/glucose-tolerance-diabetes-and-all-cause-mortality-in-the-elderly/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:38:20 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[Diabetes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=7748</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7748</guid>
 
 					<description><![CDATA[The relationship of glucose tolerance at entry with 5-year all-cause mortality was investigated in Finland in men aged 65-84. Impaired compared to normal glucose tolerance was not associated with all-cause mortality in the Finnish elderly cohort. However, the relative risk of all-cause mortality in 5 years was twice as high among men with diabetes  [...]]]></description>
 		
@@ -39,7 +39,7 @@
 			</item>
 		<item>
 		<title>Physical activity, smoking, insulin, glucose tolerance and diabetes in non-diabetic Dutch men</title>
-		<link>/physical-activity-smoking-glucose-tolerance-and-diabetes-incidence-in-non-diabetic-elderly/</link>
+		<link>/SevenCountriesStudy/physical-activity-smoking-glucose-tolerance-and-diabetes-incidence-in-non-diabetic-elderly/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:37:19 +0000</pubDate>
@@ -49,7 +49,7 @@
 		<category><![CDATA[Physical activity]]></category>
 		<category><![CDATA[Smoking]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=7746</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7746</guid>
 
 					<description><![CDATA[In 1990 in the Zutphen Elderly Study habitual physical activity of leisure-time was assessed with a validated questionnaire. On average, the men spent 1.5 hours a day engaged in activities such as walking, bicycling, gardening and hobbies. In this cross-sectional survey, men in the highest quartile of weekly physical activity (&gt;2.8 hours/day) had lower  [...]]]></description>
 		
@@ -58,7 +58,7 @@
 			</item>
 		<item>
 		<title>Diet, insulin and glucose tolerance in non-diabetic men in The Netherlands</title>
-		<link>/diet-insulin-and-glucose-tolerance-in-non-diabetic-men-in-the-netherlands/</link>
+		<link>/SevenCountriesStudy/diet-insulin-and-glucose-tolerance-in-non-diabetic-men-in-the-netherlands/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:36:14 +0000</pubDate>
@@ -66,7 +66,7 @@
 		<category><![CDATA[Diabetes]]></category>
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=7744</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7744</guid>
 
 					<description><![CDATA[In 1990 a cross-sectional survey was carried out on diet in relation to insulin in the Zutphen Elderly Study. The individual association of dietary fiber intake was inversely associated with the area under  the insulin curve. In 1970 the Zutphen Study also carried out a cross-sectional analysis on individual diet and glucose tolerance. The  [...]]]></description>
 		
@@ -75,7 +75,7 @@
 			</item>
 		<item>
 		<title>Diets of diabetic and non-diabetic elderly men in Finland, The Netherlands, and Italy</title>
-		<link>/diets-of-diabetic-and-non-diabetic-elderly-men-in-finland-the-netherlands-and-italy/</link>
+		<link>/SevenCountriesStudy/diets-of-diabetic-and-non-diabetic-elderly-men-in-finland-the-netherlands-and-italy/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:34:42 +0000</pubDate>
@@ -85,7 +85,7 @@
 		<category><![CDATA[Fatty acids]]></category>
 		<category><![CDATA[Foods]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/?p=7742</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7742</guid>
 
 					<description><![CDATA[Around 1990, the diets of non-diabetic men differed markedly among the three countries. Dutch and Finnish elderly diabetic men consumed less added sugar than non-diabetic men. In these diabetic men meat, milk, and cheese consumption were highest in The Netherlands and vegetables, fruit and berries highest in Italy. The saturated fat intake of the  [...]]]></description>
 		
@@ -94,7 +94,7 @@
 			</item>
 		<item>
 		<title>Body fat, glucose tolerance and diabetes incidence in non-diabetic elderly men</title>
-		<link>/body-fat-glucose-tolerance-and-diabetes-incidence-in-non-diabetic-elderly-men/</link>
+		<link>/SevenCountriesStudy/body-fat-glucose-tolerance-and-diabetes-incidence-in-non-diabetic-elderly-men/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:33:42 +0000</pubDate>
@@ -102,7 +102,7 @@
 		<category><![CDATA[CVD risk factors]]></category>
 		<category><![CDATA[Diabetes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
-		<guid isPermaLink="false">/?p=7739</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7739</guid>
 
 					<description><![CDATA[In 1970, the Dutch cohort of middle-aged men received a fasting oral glucose tolerance test with a glucose load of 50 grams and blood taken after 30, 60 and 120 min. The cross-sectional analysis showed that the subscapular skinfold thickness was independently related to fasting, 60 and 120 min glucose levels and to the  [...]]]></description>
 		
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>Glucose intolerance, diabetes and coronary heart disease</title>
-		<link>/type-2-diabetes-glucose-intolerance-and-coronary-heart-disease/</link>
+		<link>/SevenCountriesStudy/type-2-diabetes-glucose-intolerance-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 17 Aug 2012 08:59:23 +0000</pubDate>
@@ -120,7 +120,7 @@
 		<category><![CDATA[Diabetes]]></category>
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=1762</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=1762</guid>
 
 					<description><![CDATA[In men aged 50-69 a high glucose tolerance was, when compared to a low one, associated with a doubled risk of fatal CHD.]]></description>
 		

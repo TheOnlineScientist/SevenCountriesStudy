@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dietary patterns &#8211; Seven Countries Study</title>
-	<atom:link href="/category/diet/dietary-patterns/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/SevenCountriesStudy/category/diet/dietary-patterns/feed/" rel="self" type="application/rss+xml" />
+	<link>/SevenCountriesStudy/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Four lifestyle factors and all-cause mortality</title>
-		<link>/four-lifestyle-factors-and-all-cause-mortality/</link>
+		<link>/SevenCountriesStudy/four-lifestyle-factors-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Mon, 04 Mar 2013 12:44:17 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Physical activity]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">/?p=4736</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=4736</guid>
 
 					<description><![CDATA[A healthful diet and lifestyle are related to a low all-cause mortality risk A Mediterranean style diet, a high level of physical activity, non-smoking and moderate alcohol consumption were all associated with a low 10-year risk of all-cause mortality in the European HALE project. A very low all-cause mortality risk was observed in elderly  [...]]]></description>
 		
@@ -41,7 +41,7 @@
 			</item>
 		<item>
 		<title>Dietary patterns and all-cause mortality</title>
-		<link>/dietary-patterns-and-all-cause-mortality/</link>
+		<link>/SevenCountriesStudy/dietary-patterns-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 14:21:52 +0000</pubDate>
@@ -50,7 +50,7 @@
 		<category><![CDATA[Dietary patterns]]></category>
 		<category><![CDATA[HALE]]></category>
 		<category><![CDATA[Mediterranean diet]]></category>
-		<guid isPermaLink="false">/?p=2317</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=2317</guid>
 
 					<description><![CDATA[Diets contain nutrients, and these are generally highly correlated with other factors due to the choice of foods in which they occur, but also on the consumption of a particular food at the expense of another one. These factors are taken into account when indicators of dietary patterns are evaluated.]]></description>
 		
@@ -59,7 +59,7 @@
 			</item>
 		<item>
 		<title>Mediterranean style diets and cardiovascular disease</title>
-		<link>/mediterranean-style-diets-and-cardiovascular-disease/</link>
+		<link>/SevenCountriesStudy/mediterranean-style-diets-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 09:59:08 +0000</pubDate>
@@ -68,7 +68,7 @@
 		<category><![CDATA[Dietary patterns]]></category>
 		<category><![CDATA[FINE]]></category>
 		<category><![CDATA[HALE]]></category>
-		<guid isPermaLink="false">/?p=2198</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=2198</guid>
 
 					<description><![CDATA[The Seven Countries Study showed strong associations between dietary saturated fat and both serum cholesterol and CHD mortality among the 16 cohorts.]]></description>
 		
@@ -77,7 +77,7 @@
 			</item>
 		<item>
 		<title>Mediterranean dietary patterns in the 1960s</title>
-		<link>/mediterranean-dietary-patterns/</link>
+		<link>/SevenCountriesStudy/mediterranean-dietary-patterns/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sun, 02 Sep 2012 08:26:10 +0000</pubDate>

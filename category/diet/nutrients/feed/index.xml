@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Nutrients &#8211; Seven Countries Study</title>
-	<atom:link href="/category/diet/nutrients/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/SevenCountriesStudy/category/diet/nutrients/feed/" rel="self" type="application/rss+xml" />
+	<link>/SevenCountriesStudy/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Tue, 12 May 2020 13:17:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Flavan-3-ols (catechins) and cardiovascular disease</title>
-		<link>/catechins-and-cardiovascular-disease/</link>
+		<link>/SevenCountriesStudy/catechins-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Thu, 07 Feb 2013 09:29:12 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=4036</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=4036</guid>
 
 					<description><![CDATA[Flavan-3-ol intake related to CHD but not to stroke An average intake of monomeric flavan-3-ols of 124 mg/d, compared to an average intake of 25 mg/d, was associated with a 51% lower 10-year CHD mortality in the Zutphen Elderly Study. Tea is a rich source of both flavan-3-ols and flavonols. Therefore we analyzed also  [...]]]></description>
 		
@@ -40,7 +40,7 @@
 			</item>
 		<item>
 		<title>Physical activity, dietary fiber and body fat</title>
-		<link>/physical-activity-dietary-fiber-and-body-fat/</link>
+		<link>/SevenCountriesStudy/physical-activity-dietary-fiber-and-body-fat/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:31:56 +0000</pubDate>
@@ -50,7 +50,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Physical activity]]></category>
-		<guid isPermaLink="false">/?p=7737</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=7737</guid>
 
 					<description><![CDATA[A cross-sectional analysis on survey data collected in 16 cohorts of middle-aged men in the 1960s showed that the average population index of occupational physical activity was strongly inversely related (R= -0.91) to the average population subscapular skinfold thickness, an indicator of total body fat. Average dietary fiber intake was also inversely associated ecologically,  [...]]]></description>
 		
@@ -59,7 +59,7 @@
 			</item>
 		<item>
 		<title>Nutrient intake and depressive symptoms</title>
-		<link>/nutrient-intake-and-depressive-symptoms/</link>
+		<link>/SevenCountriesStudy/nutrient-intake-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:01:44 +0000</pubDate>
@@ -67,7 +67,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Fatty acids]]></category>
 		<category><![CDATA[Nutrients]]></category>
-		<guid isPermaLink="false">/?p=3243</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=3243</guid>
 
 					<description><![CDATA[The results suggest that in contrast to the intake of B-vitamins, a high intake of the fish fatty acids EPA-DHA was associated with a low risk of depressive symptoms.]]></description>
 		
@@ -76,7 +76,7 @@
 			</item>
 		<item>
 		<title>Lignans and coronary heart disease</title>
-		<link>/lignans-and-coronary-heart-disease/</link>
+		<link>/SevenCountriesStudy/lignans-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 11:52:58 +0000</pubDate>
@@ -85,7 +85,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=2292</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=2292</guid>
 
 					<description><![CDATA[The intake of one type of lignan was significantly inversely related to 15-year fatal CHD.]]></description>
 		
@@ -94,7 +94,7 @@
 			</item>
 		<item>
 		<title>Antioxidant vitamins and cardiovascular disease</title>
-		<link>/vitamins-and-coronary-heart-disease/</link>
+		<link>/SevenCountriesStudy/vitamins-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 11:58:22 +0000</pubDate>
@@ -102,7 +102,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=2135</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=2135</guid>
 
 					<description><![CDATA[The role of vitamins in relation to the prevention of cardiovascular diseases is controversial.]]></description>
 		
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>Trans fat and coronary heart disease</title>
-		<link>/trans-fat-and-coronary-heart-disease/</link>
+		<link>/SevenCountriesStudy/trans-fat-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Wed, 03 Oct 2012 06:27:09 +0000</pubDate>
@@ -129,14 +129,14 @@
 			</item>
 		<item>
 		<title>Fiber and coronary heart disease</title>
-		<link>/fiber-and-coronary-heart-disease/</link>
+		<link>/SevenCountriesStudy/fiber-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 17 Aug 2012 09:10:12 +0000</pubDate>
 				<category><![CDATA[Cardiovascular disease]]></category>
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Nutrients]]></category>
-		<guid isPermaLink="false">/?p=1779</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=1779</guid>
 
 					<description><![CDATA[The results showed that every additional 10 g/d of recent dietary fiber intake was associated with a significantly lower risk of fatal CHD.]]></description>
 		
@@ -145,7 +145,7 @@
 			</item>
 		<item>
 		<title>Flavonols and cardiovascular disease</title>
-		<link>/flavonoids-and-coronary-heart-disease/</link>
+		<link>/SevenCountriesStudy/flavonoids-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 17 Aug 2012 07:09:26 +0000</pubDate>
@@ -154,7 +154,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/?p=1773</guid>
+		<guid isPermaLink="false">/SevenCountriesStudy/?p=1773</guid>
 
 					<description><![CDATA[In 1993 it was found for the first time that a high intake of flavonols was associated with a 68% lower 5-year fatal CHD risk. This result was confirmed using 10-year mortality data.]]></description>
 		
