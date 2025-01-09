@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Flavonoids &amp; lignans &#8211; Seven Countries Study</title>
-	<atom:link href="/SevenCountriesStudy/category/diet/flavonoids/feed/" rel="self" type="application/rss+xml" />
-	<link>/SevenCountriesStudy/</link>
+	<atom:link href="/category/diet/flavonoids/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:56:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Flavan-3-ols (catechins) and cardiovascular disease</title>
-		<link>/SevenCountriesStudy/catechins-and-cardiovascular-disease/</link>
+		<link>/catechins-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Thu, 07 Feb 2013 09:29:12 +0000</pubDate>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=4036</guid>
+		<guid isPermaLink="false">/?p=4036</guid>
 
 					<description><![CDATA[Flavan-3-ol intake related to CHD but not to stroke An average intake of monomeric flavan-3-ols of 124 mg/d, compared to an average intake of 25 mg/d, was associated with a 51% lower 10-year CHD mortality in the Zutphen Elderly Study. Tea is a rich source of both flavan-3-ols and flavonols. Therefore we analyzed also  [...]]]></description>
 		
@@ -40,7 +40,7 @@
 			</item>
 		<item>
 		<title>Lignans and coronary heart disease</title>
-		<link>/SevenCountriesStudy/lignans-and-coronary-heart-disease/</link>
+		<link>/lignans-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 11:52:58 +0000</pubDate>
@@ -49,7 +49,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=2292</guid>
+		<guid isPermaLink="false">/?p=2292</guid>
 
 					<description><![CDATA[The intake of one type of lignan was significantly inversely related to 15-year fatal CHD.]]></description>
 		
@@ -58,7 +58,7 @@
 			</item>
 		<item>
 		<title>Chocolate and cardiovascular disease</title>
-		<link>/SevenCountriesStudy/chocolate-and-coronary-heart-disease/</link>
+		<link>/chocolate-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 12:01:23 +0000</pubDate>
@@ -67,7 +67,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Foods]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=2143</guid>
+		<guid isPermaLink="false">/?p=2143</guid>
 
 					<description><![CDATA[Already in the 18th century chocolate was believed to strengthen the heart, but this benefit was not based on scientific evidence.]]></description>
 		
@@ -76,7 +76,7 @@
 			</item>
 		<item>
 		<title>Tea and cardiovascular disease</title>
-		<link>/SevenCountriesStudy/tea-and-coronary-heart-disease/</link>
+		<link>/tea-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 12:00:51 +0000</pubDate>
@@ -84,7 +84,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Foods]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=2141</guid>
+		<guid isPermaLink="false">/?p=2141</guid>
 
 					<description><![CDATA[The Seven Countries Study did two analyses that suggest that black tea consumption is inversely related to cardiovascular diseases.]]></description>
 		
@@ -93,7 +93,7 @@
 			</item>
 		<item>
 		<title>Flavonols and cardiovascular disease</title>
-		<link>/SevenCountriesStudy/flavonoids-and-coronary-heart-disease/</link>
+		<link>/flavonoids-and-coronary-heart-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Fri, 17 Aug 2012 07:09:26 +0000</pubDate>
@@ -102,7 +102,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=1773</guid>
+		<guid isPermaLink="false">/?p=1773</guid>
 
 					<description><![CDATA[In 1993 it was found for the first time that a high intake of flavonols was associated with a 68% lower 5-year fatal CHD risk. This result was confirmed using 10-year mortality data.]]></description>
 		

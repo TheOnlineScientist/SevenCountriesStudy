@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Diet &#8211; Seven Countries Study</title>
-	<atom:link href="/SevenCountriesStudy/category/diet/feed/" rel="self" type="application/rss+xml" />
-	<link>/SevenCountriesStudy/</link>
+	<atom:link href="/category/diet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Since 1947. The first major study to look at dietary components and patterns and lifestyle as risk factors for cardiovascular disease, over multiple countries and extended periods of time.</description>
 	<lastBuildDate>Wed, 06 May 2020 10:58:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Four lifestyle factors and all-cause mortality</title>
-		<link>/SevenCountriesStudy/four-lifestyle-factors-and-all-cause-mortality/</link>
+		<link>/four-lifestyle-factors-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Mon, 04 Mar 2013 12:44:17 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Physical activity]]></category>
 		<category><![CDATA[Smoking]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=4736</guid>
+		<guid isPermaLink="false">/?p=4736</guid>
 
 					<description><![CDATA[A healthful diet and lifestyle are related to a low all-cause mortality risk A Mediterranean style diet, a high level of physical activity, non-smoking and moderate alcohol consumption were all associated with a low 10-year risk of all-cause mortality in the European HALE project. A very low all-cause mortality risk was observed in elderly  [...]]]></description>
 		
@@ -41,7 +41,7 @@
 			</item>
 		<item>
 		<title>Four lifestyle factors combined and cardiovascular disease</title>
-		<link>/SevenCountriesStudy/four-lifestyle-factors-combined-and-cardiovascular-disease/</link>
+		<link>/four-lifestyle-factors-combined-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 26 Feb 2013 12:58:56 +0000</pubDate>
@@ -52,7 +52,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[HALE]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=4525</guid>
+		<guid isPermaLink="false">/?p=4525</guid>
 
 					<description><![CDATA[A healthful diet and lifestyle is related to low CVD risk A Mediterranean style diet, a high level of physical activity, not smoking and moderate alcohol consumption were all associated with low 10-year risk of CHD and CVD in the European HALE project. A very low risk of these diseases was observed in elderly  [...]]]></description>
 		
@@ -61,7 +61,7 @@
 			</item>
 		<item>
 		<title>Flavan-3-ols (catechins) and cardiovascular disease</title>
-		<link>/SevenCountriesStudy/catechins-and-cardiovascular-disease/</link>
+		<link>/catechins-and-cardiovascular-disease/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Thu, 07 Feb 2013 09:29:12 +0000</pubDate>
@@ -71,7 +71,7 @@
 		<category><![CDATA[Flavonoids & lignans]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=4036</guid>
+		<guid isPermaLink="false">/?p=4036</guid>
 
 					<description><![CDATA[Flavan-3-ol intake related to CHD but not to stroke An average intake of monomeric flavan-3-ols of 124 mg/d, compared to an average intake of 25 mg/d, was associated with a 51% lower 10-year CHD mortality in the Zutphen Elderly Study. Tea is a rich source of both flavan-3-ols and flavonols. Therefore we analyzed also  [...]]]></description>
 		
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>Diet, insulin and glucose tolerance in non-diabetic men in The Netherlands</title>
-		<link>/SevenCountriesStudy/diet-insulin-and-glucose-tolerance-in-non-diabetic-men-in-the-netherlands/</link>
+		<link>/diet-insulin-and-glucose-tolerance-in-non-diabetic-men-in-the-netherlands/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:36:14 +0000</pubDate>
@@ -88,7 +88,7 @@
 		<category><![CDATA[Diabetes]]></category>
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=7744</guid>
+		<guid isPermaLink="false">/?p=7744</guid>
 
 					<description><![CDATA[In 1990 a cross-sectional survey was carried out on diet in relation to insulin in the Zutphen Elderly Study. The individual association of dietary fiber intake was inversely associated with the area under  the insulin curve. In 1970 the Zutphen Study also carried out a cross-sectional analysis on individual diet and glucose tolerance. The  [...]]]></description>
 		
@@ -97,7 +97,7 @@
 			</item>
 		<item>
 		<title>Diets of diabetic and non-diabetic elderly men in Finland, The Netherlands, and Italy</title>
-		<link>/SevenCountriesStudy/diets-of-diabetic-and-non-diabetic-elderly-men-in-finland-the-netherlands-and-italy/</link>
+		<link>/diets-of-diabetic-and-non-diabetic-elderly-men-in-finland-the-netherlands-and-italy/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:34:42 +0000</pubDate>
@@ -107,7 +107,7 @@
 		<category><![CDATA[Fatty acids]]></category>
 		<category><![CDATA[Foods]]></category>
 		<category><![CDATA[FINE]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=7742</guid>
+		<guid isPermaLink="false">/?p=7742</guid>
 
 					<description><![CDATA[Around 1990, the diets of non-diabetic men differed markedly among the three countries. Dutch and Finnish elderly diabetic men consumed less added sugar than non-diabetic men. In these diabetic men meat, milk, and cheese consumption were highest in The Netherlands and vegetables, fruit and berries highest in Italy. The saturated fat intake of the  [...]]]></description>
 		
@@ -116,7 +116,7 @@
 			</item>
 		<item>
 		<title>Physical activity, dietary fiber and body fat</title>
-		<link>/SevenCountriesStudy/physical-activity-dietary-fiber-and-body-fat/</link>
+		<link>/physical-activity-dietary-fiber-and-body-fat/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 27 Nov 2012 12:31:56 +0000</pubDate>
@@ -126,7 +126,7 @@
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[Nutrients]]></category>
 		<category><![CDATA[Physical activity]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=7737</guid>
+		<guid isPermaLink="false">/?p=7737</guid>
 
 					<description><![CDATA[A cross-sectional analysis on survey data collected in 16 cohorts of middle-aged men in the 1960s showed that the average population index of occupational physical activity was strongly inversely related (R= -0.91) to the average population subscapular skinfold thickness, an indicator of total body fat. Average dietary fiber intake was also inversely associated ecologically,  [...]]]></description>
 		
@@ -135,7 +135,7 @@
 			</item>
 		<item>
 		<title>Nutrient intake and depressive symptoms</title>
-		<link>/SevenCountriesStudy/nutrient-intake-and-depressive-symptoms/</link>
+		<link>/nutrient-intake-and-depressive-symptoms/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 12:01:44 +0000</pubDate>
@@ -143,7 +143,7 @@
 		<category><![CDATA[Diet]]></category>
 		<category><![CDATA[Fatty acids]]></category>
 		<category><![CDATA[Nutrients]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=3243</guid>
+		<guid isPermaLink="false">/?p=3243</guid>
 
 					<description><![CDATA[The results suggest that in contrast to the intake of B-vitamins, a high intake of the fish fatty acids EPA-DHA was associated with a low risk of depressive symptoms.]]></description>
 		
@@ -152,7 +152,7 @@
 			</item>
 		<item>
 		<title>Fish, omega-3 fatty acids and cognitive decline</title>
-		<link>/SevenCountriesStudy/fish-consumption-fatty-acids-and-cognitive-decline/</link>
+		<link>/fish-consumption-fatty-acids-and-cognitive-decline/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 11:51:59 +0000</pubDate>
@@ -162,7 +162,7 @@
 		<category><![CDATA[Healthy aging]]></category>
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=3223</guid>
+		<guid isPermaLink="false">/?p=3223</guid>
 
 					<description><![CDATA[An analysis of the 1990 fish consumption data and the data on cognitive function collected showed that fish consumers had significantly less cognitive decline than non-consumers.]]></description>
 		
@@ -171,7 +171,7 @@
 			</item>
 		<item>
 		<title>Coffee, alcohol, smoking and cognitive decline</title>
-		<link>/SevenCountriesStudy/coffee-alcohol-smoking-and-cognitive-functioning/</link>
+		<link>/coffee-alcohol-smoking-and-cognitive-functioning/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2012 10:43:09 +0000</pubDate>
@@ -183,7 +183,7 @@
 		<category><![CDATA[Mental health]]></category>
 		<category><![CDATA[Smoking]]></category>
 		<category><![CDATA[Zutphen Elderly Study]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=3211</guid>
+		<guid isPermaLink="false">/?p=3211</guid>
 
 					<description><![CDATA[The results suggest that in elderly men without chronic diseases, smoking and drinking were not related to cognitive decline.]]></description>
 		
@@ -192,7 +192,7 @@
 			</item>
 		<item>
 		<title>Dietary patterns and all-cause mortality</title>
-		<link>/SevenCountriesStudy/dietary-patterns-and-all-cause-mortality/</link>
+		<link>/dietary-patterns-and-all-cause-mortality/</link>
 		
 		<dc:creator><![CDATA[SCS]]></dc:creator>
 		<pubDate>Sat, 20 Oct 2012 14:21:52 +0000</pubDate>
@@ -201,7 +201,7 @@
 		<category><![CDATA[Dietary patterns]]></category>
 		<category><![CDATA[HALE]]></category>
 		<category><![CDATA[Mediterranean diet]]></category>
-		<guid isPermaLink="false">/SevenCountriesStudy/?p=2317</guid>
+		<guid isPermaLink="false">/?p=2317</guid>
 
 					<description><![CDATA[Diets contain nutrients, and these are generally highly correlated with other factors due to the choice of foods in which they occur, but also on the consumption of a particular food at the expense of another one. These factors are taken into account when indicators of dietary patterns are evaluated.]]></description>
 		
